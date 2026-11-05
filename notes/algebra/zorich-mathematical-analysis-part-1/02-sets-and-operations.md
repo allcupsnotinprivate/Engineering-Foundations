@@ -105,7 +105,7 @@ $$
   - $X \times (Y \setminus Z) = (X \times Y) \setminus (X \times Z)$.
 - $(X \times Y) \cap (X' \times Y') = (X \cap X') \times (Y \cap Y')$.
 - **$X \times Y = \varnothing \Leftrightarrow X = \varnothing$ или $Y = \varnothing$.**
-- Проекции: $\operatorname{pr}_1 : X \times Y \to X$, $\operatorname{pr}_2 : X \times Y \to Y$ — «бросаем тень» на оси.
+- Проекции: $\mathrm{pr}_1 : X \times Y \to X$, $\mathrm{pr}_2 : X \times Y \to Y$ — «бросаем тень» на оси.
 
 ## Элементарная комбинаторика
 
